@@ -1,3 +1,5 @@
+import './styles.css'
+
 export const PostCard = ({cover, title, id, body}) => {
   // const post = props;
   return(
